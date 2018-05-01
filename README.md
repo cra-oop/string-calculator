@@ -1,19 +1,19 @@
-# 진행 방법
-1. makkaba/oop-stringcalculator 브랜치를 본인의 레포지토리로 fork 한다.
-2. 본인의 레포지토리에서 다운(clone)받은 후, step1 이라는 이름의 브랜치를 만든다.
-3. step1 브랜치에서 요구사항을 구현한 후, 일단 본인의 step1 브랜치를 본인 레포지토리에 푸시한다
-4. 
-* 요구사항에 대한 구현을 완료한 후 자신의 github 아이디에 해당하는 브랜치에 Pull Request(이하 PR)를 통해 코드 리뷰 요청을 한다.
-* 코드 리뷰 피드백에 대한 개선 작업을 하고 다시 PUSH한다.
-* 모든 피드백을 완료하면 다음 단계를 도전하고 앞의 과정을 반복한다.
+# 몸풀기 미션 [문자열 계산기](https://github.com/cra-oop/string-calculator)
 
-## 온라인 코드 리뷰 과정
+# 진행 방법
+1. cra-oop/string-calculator 레포지토리를 본인의 레포지토리로 fork 한다.
+2. 본인의 레포지토리에서 개인PC로 다운(clone)받은 후, step1 이라는 이름의 브랜치를 만든다.
+3. step1 브랜치에서 요구사항을 구현한 후, 본인의 step1 브랜치를 본인 레포지토리에 푸시한다
+4. cra-oop/string-calculator 레포지토리에 본인 이름으로 된 브랜치로 PR을 날린다.
+5. PR 날렸다고 알린다~
+6. 멤버들이 코멘트 리뷰를 한다
+7. 코멘트를 반영해서 다시 PR을 날린다
+8. 3,5,6,7 과정을 반복한다 (4번. PR 생성은 최초 한번만 하면 된다)
+9. 어느 정도 완성되어 멤버들이 merge를 승인하면 다음 단계를 진행한다.
+
+### 온라인 코드리뷰 자세한 설명
 * [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md)
 * [동영상으로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://youtu.be/a5c9ku-_fok)
-
-# 실습 환경 구축
-* 몸풀기 미션인 [문자열 계산기](https://github.com/makkaba/oop-stringcalculator) 저장소 브랜치에 자신의 github 아이디에 해당하는 브랜치가 있는지 확인한다. 없으면 생성 요청한다.
-* [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md) 문서를 참고해 환경 구축한다.
 
 ----
 # 문자열 사칙 연산 계산기 구현
