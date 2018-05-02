@@ -55,9 +55,3 @@ int number = scanner.nextInt();
 
 #### 힌트
 * 자바의 다형성을 활용한다. interace와 Map 활용
-
-----
-# 실습 마무리
-* 실습을 끝내면 [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md) 문서의 6단계(자신의 저장소에 push), 7단계(pull request)를 진행한다.
-* slack에 코드 리뷰 요청을 한다.
-* 피드백 또는 merge 될 때까지 기다린다. merge가 되면 다음 단계의 실습을 진행한다.  [텍스트와 이미지로 살펴보는 코드스쿼드의 온라인 코드 리뷰 과정](https://github.com/code-squad/codesquad-docs/blob/master/codereview/README.md) 문서의 9단계부터 진행하면 된다.
