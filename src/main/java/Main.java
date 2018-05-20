@@ -10,6 +10,8 @@ public class Main {
         Calculator calculator = new CalculatorService();
 
         Helper helper = new HelperService();
+        
+        helper.setCalculator(calculator);
 
         int result = helper.calculate(str);
 
